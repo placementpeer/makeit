@@ -6,3 +6,5 @@ Disadvantages:
 
 VALUES AND PRINCIPLES OF AGILE SOFTWARE DEVELOPMENT:
 Agile Software Development
+
+Agile needs experienced
