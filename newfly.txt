@@ -1,0 +1,3 @@
+The different  stages of Agile Software Development Life Cycle are:
+•	Requirements
+•	Design
